@@ -7,6 +7,8 @@ public class HolaMundo {
 	public static void main(String[] args) {		
 		Scanner sc = new Scanner(System.in);
 	
+		int a = 15635*15471/5;
+		
 		boolean rta = false;	
 		
 		int i = 34;
@@ -16,6 +18,7 @@ public class HolaMundo {
 		rta = mark.equalsIgnoreCase("Martin");
 		
 		i = i/0;
+		
 
 	}
 

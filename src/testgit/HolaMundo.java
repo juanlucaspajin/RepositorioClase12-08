@@ -3,7 +3,7 @@ package testgit;
 public class HolaMundo {
 
 	public static void main(String[] args) {		
-		int i = 0;
+		int i = 12;
 		i = i/0;
 
 	}

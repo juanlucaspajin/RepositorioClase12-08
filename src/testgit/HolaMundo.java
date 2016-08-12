@@ -17,6 +17,7 @@ public class HolaMundo {
 		
 		i = i/0;
 
+		sc.close();
 	}
 
 }
